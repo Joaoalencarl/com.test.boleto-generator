@@ -1,6 +1,6 @@
-# Meu Projeto Java e React com Vite
+# Gerador de Boleto BB
 
-Este é um projeto de exemplo que demonstra como criar uma aplicação web com um backend Java e um frontend React com Vite.
+Este é um projeto de exemplo que demonstra como criar uma aplicação web com um backend Java e um frontend React com Vite para gerar boletos validados por meio da API bopepo Java.
 
 ## Pré-requisitos
 
